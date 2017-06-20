@@ -5,13 +5,9 @@ Curriculum for 2 week (intensive) Python course
 ## Objectives
 
 * Teach basic python to students
+    * Use Jupyter Notebooks
 * Give them a basic project (Spam Filter) to complete and nightly homework
 * Possibly give them a final project
-
-### Day 1
-
-*  foo 
-*  bar
 
 ### Learning to Program
 
@@ -41,6 +37,7 @@ Curriculum for 2 week (intensive) Python course
     * Improvements
         * Laplace Smoothing
         * Stop Words
+        * MultiClass Regression
         * Performance?
 
 ### Homework Assignments
