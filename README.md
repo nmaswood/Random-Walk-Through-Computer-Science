@@ -1,6 +1,9 @@
 # Learn-You-A-Python-For-Great-Good
 
+
 Curriculum for 2 week (intensive) Python course
+
+https://docs.google.com/document/d/11zGeSZQiqEtwpEXKG9ZcF9ATLICY_2OHxonHZPfK3_s/edit?usp=sharing
 
 ## Objectives
 
