@@ -1,0 +1,37 @@
+1. List two things you would like to get out of this course (and explain):
+
+    1.
+    2. 
+
+2. List three things computer programs you use everyday.
+    1.
+    2.
+    3. 
+
+3. What is a computer? What do you think it is? What did I define it as?
+
+4. What is a computer program?
+
+5. What is a programming language?
+
+6. What is binary?
+
+For 7 and 8 look at the following website
+
+http://www.wikihow.com/Convert-from-Decimal-to-Binary
+
+7. Convert the following numbers from decimal to binary
+
+    1. 123
+    2. 67
+    3. 1023
+    4. 52
+    5. 9
+
+8. Convert the following numbers from binary to decimal 
+
+    1. 111
+    2. 1101
+    3. 0011
+    4. 1100
+    5  1010
