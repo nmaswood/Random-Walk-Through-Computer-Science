@@ -1,0 +1,11 @@
+--2017-07-13 16:27:06--  https://www.google.com/url?sa=i
+Resolving www.google.com... 74.125.141.147, 74.125.141.106, 74.125.141.103, ...
+Connecting to www.google.com|74.125.141.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘url?sa=i’
+
+url?sa=i                [<=>              ]       0  --.-KB/s               url?sa=i                [ <=>             ]   1.23K  --.-KB/s    in 0s      
+
+2017-07-13 16:27:06 (18.2 MB/s) - ‘url?sa=i’ saved [1257]
+
