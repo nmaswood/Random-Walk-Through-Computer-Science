@@ -55,6 +55,16 @@ def list_of_lists(n):
 
     return []
 
+def is_prime(x):
+
+    """
+    Return true if the number x is prime.
+
+    is_prime(3) -> True
+    is_prime(4) -> False
+    """
+
+    return False
 
 def tic_tac_toe():
 
