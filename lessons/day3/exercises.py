@@ -49,7 +49,7 @@ def list_of_lists(n):
 
     e.g.
 
-    list_of_lists(2) -> [['X', 'X', 'X'], ['X', 'X', 'X'],['X', 'X', 'X']]
+    list_of_lists(2) -> [['X', 'X', 'X'],['X', 'X', 'X']]
 
     """
 
