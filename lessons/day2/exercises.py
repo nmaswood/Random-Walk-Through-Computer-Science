@@ -1,5 +1,3 @@
-import turtle # Don't delete this line !!! 
-
 def f_to_c(temp):
 
     """
