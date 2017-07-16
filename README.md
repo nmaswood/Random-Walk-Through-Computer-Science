@@ -21,10 +21,11 @@ https://docs.google.com/document/d/11zGeSZQiqEtwpEXKG9ZcF9ATLICY_2OHxonHZPfK3_s/
         * HashTable
 * Using Data Structures in Python
 
-## Day 4: Control Flow
-* While, For, Iteration
-* If Statements
-* Misc Python
+## Day 6:Not those Graphs
+* Graphs
+    * Facebook/Social Networks
+* Recursion
+* Fibonacci
 
 ## Day 5: How to Keep a Secret 
 * Introduction to Crytography 
@@ -33,13 +34,27 @@ https://docs.google.com/document/d/11zGeSZQiqEtwpEXKG9ZcF9ATLICY_2OHxonHZPfK3_s/
         * 'Hacking'? 
 * Misc Python
 
-## Day 6: More Algorithims and Data Structures
-* Graphs
-    * Facebook/Social Networks
-* Recursion
-* Fibonacci
-
-## Day 7: Networking 
+## Day 6: Networking 
 
 * HTTP 
 * HTML/ CSS/ Javascript
+* Overview of the Internet
+
+## Day 7: When the Machines Take Over
+* Machine Learning 
+* Big Data
+* Optimization 
+* Linear Regression 
+* Deep Learning 
+
+## Day 8: Data Bases / Cloud Computing 
+* What is Data Base why is Helpful
+* What is the Cloud?
+
+## Day 9: O.O. and Functional Programming
+* Different Paradigms
+* Benefits of Each
+
+## Day 10: Review 
+
+
