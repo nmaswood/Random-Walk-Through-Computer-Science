@@ -1,7 +1,4 @@
-# Introduction to Computer Science in Python
-
-https://docs.google.com/document/d/11zGeSZQiqEtwpEXKG9ZcF9ATLICY_2OHxonHZPfK3_s/edit?usp=sharing
-
+# Introduction to Computer Science (in Python)
 
 ## Day 1:  The Beginning of a Journey
 
