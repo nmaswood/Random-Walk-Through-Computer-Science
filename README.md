@@ -18,18 +18,19 @@
         * HashTable
 * Using Data Structures in Python
 
-## Day 6:Not those Graphs
+## Day 4:Not those Graphs
 * Graphs
     * Facebook/Social Networks
 * Recursion
-* Fibonacci
+    * Fibonacci
+* Polymorphisms
 
 ## Day 5: How to Keep a Secret 
 * Introduction to Crytography 
         * Caesar Cipher 
         * Frequency Analysis 
         * 'Hacking'? 
-* Misc Python
+* Keeping your code clean 
 
 ## Day 6: Networking 
 
@@ -52,6 +53,7 @@
 * Different Paradigms
 * Benefits of Each
 
-## Day 10: Review 
-
-
+## Day 10: Theoretical Computer Science / Review 
+* Turing Machine 
+* The Halting Problem
+* P vs NP 
