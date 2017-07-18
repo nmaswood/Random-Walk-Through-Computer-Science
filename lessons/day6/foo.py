@@ -1,14 +1,3 @@
-"""
->>> import datetime
->>> dates = [datetime.datetime.strptime(ts, "%Y-%m-%d") for ts in timestamps]
->>> dates.sort()
->>> sorteddates = [datetime.datetime.strftime(ts, "%Y-%m-%d") for ts in dates]
->>> sorteddates
-['2010-01-12', '2010-01-14', '2010-02-07', '2010-02-11', '2010-11-16', '2010-11-
-22', '2010-11-23', '2010-11-26', '2010-12-02', '2010-12-13', '2011-02-04', '2011
--06-02', '2011-08-05', '2011-11-30']
-"""
-
 import pandas as pd
 
 df = pd.DataFrame({
