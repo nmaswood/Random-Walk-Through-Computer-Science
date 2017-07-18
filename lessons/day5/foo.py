@@ -44,7 +44,6 @@ def create_mapping(msg):
 
     return d
 
-randint(0,)
 
 
 
