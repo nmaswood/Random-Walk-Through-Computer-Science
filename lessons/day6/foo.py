@@ -27,4 +27,4 @@ def filter_data(df, start, end):
 
 new_df = filter_data(df,'2013-11-01', '2017-12-01' )
 
-print (new_df)
+print (list(new_df.columns))
