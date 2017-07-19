@@ -35,7 +35,7 @@
     * Password Storage
     * Hash Functions
 
-## Day 6: Networking 
+## Day 6: The Importance of Networking 
 
 * HTTP 
 * HTML/CSS/Javascript
@@ -55,7 +55,8 @@
 * Object Oriented Programming 
 * Other Stuff
 
-## Day 10: Theoretical Computer Science / Review 
-* Turing Machine 
-* The Halting Problem
-* P vs NP 
+## Day 10: Thats all good in practice, but what about theory? 
+* Theoretical Computer Science
+    * Turing Machine 
+    * The Halting Problem
+    * P vs NP 
