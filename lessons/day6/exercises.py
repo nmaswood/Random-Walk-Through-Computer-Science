@@ -1,5 +1,6 @@
 from urllib.request import urlopen
 import csv
+from time import sleep
 
 def request_google():
     # Try out this function to see what it does
@@ -34,7 +35,13 @@ def request_movie_data(list_of_movies):
 
     """
     Given a list of movies request the data for all these movies
+
     """
+
+    # don't forget to sleep in between requests
+    # otherwise the api will block you
+
+    sleep(3)
 
     return
 
@@ -44,5 +51,15 @@ def extract_movie_data(list_of_movie_data):
     Given a list of movie data. Extract the name of the movie, the date it was released and all of the scores it recieved
 
     """
+
+    return
+
+def write_movie_data():
+
+    """
+    Use the data 
+    """
+
+    # write the data you collected from extract_movie_data to disk as a csv
 
     return

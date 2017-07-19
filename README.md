@@ -5,53 +5,55 @@
 * What is a Computer?
 * What is Binary?
 * My First Program
+* Basics
+    * Printing
+    * Variables
 
 ## Day 2:  Function over Form
-
-* Introduction to Functions
-* Introduction to Algorithims
+* Functions
+* Algorithims
 
 ## Day 3: Structualism
 * Introduction to Data Structures
-        * Array
-        * LinkedList
-        * HashTable
+     * Array
+     * LinkedList
+     * HashTable
 * Using Data Structures in Python
 
 ## Day 4:Not those Graphs
 * Graphs
-    * Facebook/Social Networks
+    * Social Networks
+    * Trees
 * Recursion
-    * Fibonacci
-* Polymorphisms
 
 ## Day 5: How to Keep a Secret 
 * Introduction to Crytography 
-        * Caesar Cipher 
-        * Frequency Analysis 
-        * 'Hacking'? 
-* Keeping your code clean 
+	* Caesar Cipher 
+    * Frequency Analysis 
+    * 'Hacking'? 
+* Computer Security
+    * Password Storage
+    * Hash Functions
 
 ## Day 6: Networking 
 
 * HTTP 
-* HTML/ CSS/ Javascript
+* HTML/CSS/Javascript
 * Overview of the Internet
 
 ## Day 7: When the Machines Take Over
-* Machine Learning 
-* Big Data
-* Optimization 
+
 * Linear Regression 
-* Deep Learning 
+* Machine Learning Introduction
 
-## Day 8: Data Bases / Cloud Computing 
-* What is Data Base why is Helpful
-* What is the Cloud?
+## Day 8: Cloud 9 
+* Databases
+* The Cloud
 
-## Day 9: O.O. and Functional Programming
-* Different Paradigms
-* Benefits of Each
+## Day 9: Opinionated Programming
+* Functional Programming
+* Object Oriented Programming 
+* Other Stuff
 
 ## Day 10: Theoretical Computer Science / Review 
 * Turing Machine 
