@@ -1,6 +1,8 @@
-# Introduction to Computer Science (in Python)
+<h1 align="center"> A Random Walk Through Computer Science</h1>
 
-<h1 align="center"> Day 1:  The Beginning of a Journey</h1>
+This repo is 10 classes worth of cirriculum and exercises for an introduction to Computer Science class. Although the is in Python I chosen to not focus on teaching Python syntax and to instead try to convey several big ideas from the field of Computer Science. I have opted for breadth over depth and I hope one of the topics covered sparks your interest for self study.
+
+<h2 align="center"> Day 1:  The Beginning of a Journey</h2>
 
 * What is a Computer?
 * What is Binary?
