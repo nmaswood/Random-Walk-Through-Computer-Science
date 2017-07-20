@@ -11,11 +11,11 @@ This repo is 10 classes worth of cirriculum and exercises for an intro to Comput
     * Printing
     * Variables
 
-
 <h2 align="center">Day 2:  Function over Form</h2>
 
 * Functions
 * Algorithims
+* Big O Notation
 
 <h2 align="center">Day 3: Structualism</h2>
 
@@ -31,7 +31,6 @@ This repo is 10 classes worth of cirriculum and exercises for an intro to Comput
     * Social Networks
     * Trees
 * Recursion
-
 
 <h2 align="center">Day 5: How to Keep a Secret</h2>
 
@@ -50,13 +49,15 @@ This repo is 10 classes worth of cirriculum and exercises for an intro to Comput
 * Overview of the Internet
 
 <h2 align="center">Day 7: When the Machines Take Over</h2>
+
 * Linear Regression 
 * Machine Learning Introduction
 
 <h2 align="center">Day 8: Big Data Needs a Big Database.</h2>
 
 * Databases
-* The Cloud
+* Introduction to SQL
+* SQL in Python
 
 <h2 align="center">Day 9: My Way or the Highway</h2>
 
