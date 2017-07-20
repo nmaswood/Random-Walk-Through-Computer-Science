@@ -1,6 +1,6 @@
 # Introduction to Computer Science (in Python)
 
-<h1 center ="align"> Day 1:  The Beginning of a Journey</h1>
+<h1 align="center"> Day 1:  The Beginning of a Journey</h1>
 
 * What is a Computer?
 * What is Binary?
