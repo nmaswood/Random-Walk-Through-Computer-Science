@@ -2,6 +2,10 @@
 
 This repo is 10 classes worth of cirriculum and exercises for an intro to Computer Science class. Although the course is in Python I chosen to focus on trying to convey big ideas in Computer Science rather than Python syntax. I have opted for breadth over depth and I hope one of the topics covered sparks your interest for self study.
 
+Good Referenece : 
+
+https://www.gitbook.com/book/swaroopch/byte-of-python/details
+
 <h2 align="center"> Day 1:  The Beginning of a Journey</h2>
 
 * What is a Computer?
