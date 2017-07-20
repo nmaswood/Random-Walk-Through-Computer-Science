@@ -61,6 +61,7 @@ This repo is 10 classes worth of cirriculum and exercises for an intro to Comput
 
 <h2 align="center">Day 9: My Way or the Highway</h2>
 
+* Programming Paradigms
 * Functional Programming
 * Object Oriented Programming 
 * Other Stuff
