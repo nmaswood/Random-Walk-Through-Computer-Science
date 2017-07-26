@@ -2,7 +2,7 @@
 
 This repo is 10 classes worth of cirriculum and exercises for an intro to Computer Science class. Although the course is in Python I chosen to focus on trying to convey big ideas in Computer Science rather than Python syntax. I have opted for breadth over depth and I hope one of the topics covered sparks your interest for self study.
 
-Good Referenece : 
+Good Referenece: 
 
 https://www.gitbook.com/book/swaroopch/byte-of-python/details
 
@@ -68,7 +68,7 @@ https://www.gitbook.com/book/swaroopch/byte-of-python/details
 * Programming Paradigms
 * Functional Programming
 * Object Oriented Programming 
-* Other Stuff
+* List Comphrension and Other Python Goodies
 
 <h2 align="center">Day 10: Thats all good in practice, but what about theory? </h2>
 

@@ -39,7 +39,7 @@ def fibonacci_generator(n):
 
     yield
 
-# Create a Carclass
+# Create a Car class
 # An has three attributes model, year, cost
 # Give the cost three methods of your choice e.g. 
 # drive, park, etc.

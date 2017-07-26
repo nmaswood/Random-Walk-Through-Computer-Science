@@ -1,3 +1,11 @@
+def max_num(list_l):
+
+    """
+    Given a list return the maximum value in that list
+    """
+
+    return 0
+
 def average(list_of_n):
 
     """
