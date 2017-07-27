@@ -19,7 +19,7 @@ def dice_simulator(n_sides):
 
 def ackermann_function(x,y):
     """
-    The ackermann function is defined as 
+    The ackermann function is defined as
 
     {
     *  y + 1        if x = 0
@@ -29,7 +29,7 @@ def ackermann_function(x,y):
 
     Implement
 
-    """ 
+    """
     return 0
 
 def calculator_app():
